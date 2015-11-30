@@ -8,4 +8,12 @@ Link to game (note-won't work with Chrome. use Firefox):
 https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/roombuild.html
 
 Video of single player version (using AI):
+https://www.youtube.com/watch?v=YVAdo2oA-kc
 
+Link to single player game:
+https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/SinglePlayer/ltspweb.html
+
+AI testing demo (out of date):
+https://www.youtube.com/watch?v=sdXquhZQU1c
+
+GameDesignDocument: see pdf
