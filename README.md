@@ -3,6 +3,10 @@
 
 Video of networked 3-player game in action:
 https://www.youtube.com/watch?v=1EqjvrJJzDA
+^If you ignore everything else, **just watch this**. This also gives a brief overview of the rules as the game proceedes.
+
+
+
 
 Link to game (note-won't work with Chrome. use Firefox):
 https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/roombuild.html
@@ -16,4 +20,4 @@ https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/SinglePlayer/ltspweb.
 AI testing demo (out of date):
 https://www.youtube.com/watch?v=sdXquhZQU1c
 
-GameDesignDocument: see pdf
+(also GameDesignDocument: see pdf above for an old draft)
