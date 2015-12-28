@@ -20,4 +20,4 @@ https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/SinglePlayer/ltspweb.
 AI testing demo (out of date):
 https://www.youtube.com/watch?v=sdXquhZQU1c
 
-(also GameDesignDocument: see pdf above for an old draft)
+Here is the GameDesignDocument that I recommend reading: https://dl.dropboxusercontent.com/u/105935968/LoveTriangle/LoveTriangle-GameDesignDocument%20(4).pdf
